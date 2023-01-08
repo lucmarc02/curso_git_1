@@ -1,5 +1,13 @@
-Testando Repositorio!!!%%%%%
+<<<<<<< HEAD
+
 a
 b
 c
 d
+=======
+<<<<<<< HEAD
+Testando Repositorio!!!%%%%%aaaaa
+=======
+Testando Repositorio!!
+>>>>>>> teste_criacao_2
+>>>>>>> master
